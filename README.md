@@ -1,12 +1,12 @@
 <h1>Hi, I'm Vasumathi! </h1> <br/> 
 
-<h3>A cybersecurity professional with solid background in development, analysis, integration,  
-          testing and execution of innovative software solutions to enhance business productivity. Experienced in   
-          all aspects of software development life cycle, from concept through to development and delivery. 
-          Consistently recognized as a hands-on and competent developer, skilled at working in cross-functional 
-          teams in a fast-paced, deadline-driven environment to steer timely project completion. Proficient in 
-          balancing technical expertise, collaboration, and best practices to deliver efficient results, ensuring the 
-          highest in performance.</h3>
+<h3>A Cyber Security professional with expertise in Threat Hunting, Information   
+                Security, Risk Management, and Incident Response. Broad Knowledge on various security 
+                enforcement technologies including SIEM, anti-virus, cloud configuration, content 
+                filtering/reporting, web application firewall, vulnerability scanners. Proficient in balancing    
+                technical expertise, collaboration, and best practices to deliver efficient results, ensuring the highest 
+                in performance.
+</h3>
 
 
 <h2>👨‍💻 Few of my Threat Hunt Projects:</h2>
