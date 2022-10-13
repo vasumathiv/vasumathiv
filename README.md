@@ -26,6 +26,9 @@
   
   <h2>Certifications:</h2>
  - <b>Certified Ethical Hacker</b>
+ - <b>Big Data Fundamentals</b>
+ - <b>Big Data Hadoop Fundamentals</b>
+ - <b>NPTEL Certified C Programmer</b>
   
   🔭 I’m currently working on Developing Hypotheses to detect behaviors of recent zero-attacks and vulnerabilities
   
