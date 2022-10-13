@@ -24,6 +24,9 @@
 - <b>Threat Hunt on Payload download vulnerability in Headless browsers</b>
   - [To detect suscipious activity of downloads using headless browser feature](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Payload%20download%20vulnerability%20in%20Headless%20Browser)
   
+  <h2>Certifications:</h2>
+ - <b>Certified Ethical Hacker</b>
+  
   🔭 I’m currently working on Developing Hypotheses to detect behaviors of recent zero-attacks and vulnerabilities
   
   🌱 I’m currently learning more about Malware Analysis
