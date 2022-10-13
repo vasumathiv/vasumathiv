@@ -18,7 +18,7 @@
 - <b>Threat Hunt on WDigest Downgrade Attack</b>
   - [To detect credential access through WDigest](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/WDigest%20Downgrade%20Attack)
 - <b>Threat Hunt on Volume Shadow Copy Deletion</b>
-  - [To detect Ransomware behavior of deleting the backup files](https://github.com/vasumathiv/Threat-Hunt-  Projects/blob/main/Volume%20Shadow%20Copy%20Deletion%20%E2%80%93%20A%20ransomware%20behavior)</b>
+  - [To detect Ransomware behavior of deleting the backup files](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Volume%20Shadow%20Copy%20Deletion%20%E2%80%93%20A%20ransomware%20behavior)</b>
 - <b>Threat Hunt on RDP Logons from External IP's </b>
   - [To audit external RDP Logons](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Auditing%20RDP%20Logons%20from%20External%20IP's) 
 - <b>Threat Hunt on Payload download vulnerability in Headless browsers</b>
