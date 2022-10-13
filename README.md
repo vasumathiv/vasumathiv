@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vasumathi! </h1> <br/> <h2> Cybersecurity Professional </h2>
+<h1>Hi, I'm Vasumathi! </h1> <br/> 
 
 <h3>A cybersecurity professional with solid background in development, analysis, integration,  
           testing and execution of innovative software solutions to enhance business productivity. Experienced in   
