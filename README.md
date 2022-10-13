@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vasumathi! </h1> <br/> Cybersecurity Professional 
+<h1>Hi, I'm Vasumathi! </h1> <br/> <h2> Cybersecurity Professional </h2>
 
 <h3>A cybersecurity professional with solid background in development, analysis, integration,  
           testing and execution of innovative software solutions to enhance business productivity. Experienced in   
@@ -9,7 +9,7 @@
           highest in performance.</h3>
 
 
-<h2>👨‍💻 Threat Hunt Projects:</h2>
+<h2>👨‍💻 Few of my Threat Hunt Projects:</h2>
 
 - <b>Threat Hunt on Follina - Remote Code Execution Vulnerability in MSDT</b>
   - [To detect Follina](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Follina%20-%20Microsoft%20Code%20Execution%20Vulnerability)
@@ -23,43 +23,14 @@
   - [To audit external RDP Logons](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Auditing%20RDP%20Logons%20from%20External%20IP's) 
 - <b>Threat Hunt on Payload download vulnerability in Headless browsers</b>
   - [To detect suscipious activity of downloads using headless browser feature](https://github.com/vasumathiv/Threat-Hunt-Projects/blob/main/Payload%20download%20vulnerability%20in%20Headless%20Browser)
+  
+  🔭 I’m currently working on Developing Hypotheses to detect behaviors of recent zero-attacks and vulnerabilities
+  
+  🌱 I’m currently learning more about Malware Analysis
+  
+  📫 How to reach me: email:  techvasuonline@gmail.com
+                       Mobile: +1 313 449 8756
  
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/vasumathi-vaithiyanathan-063138103/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
-<!--
-**vasumathiv/vasumathiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
 
 <!--
 **vasumathiv/vasumathiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
