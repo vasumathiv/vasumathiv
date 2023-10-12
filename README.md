@@ -34,7 +34,7 @@
   
   🌱 I’m currently learning more about Malware Analysis
   
-  📫 How to reach me: email:  techvasuonline@gmail.com    Mobile: +1 313 449 8756
+  📫 How to reach me: email:  techvasuonline@gmail.com    Mobile: +1 7634821494
  
  <h2> 🤳 Connect with me:</h2>
 
